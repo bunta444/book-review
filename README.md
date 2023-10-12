@@ -1,1 +1,1 @@
-bunta444.github.io/book-review/
+https://bunta444.github.io/book-review/
